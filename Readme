@@ -1,0 +1,3 @@
+Create new ftp-account
+
+echo "K8r0Y4h8grew"| ftpasswd --stdin --passwd --file=/etc/proftpd/proftpd.passwd --name=test --uid=503 --gid=503 --home=/var/www/test/data --shell=/bin/bash
